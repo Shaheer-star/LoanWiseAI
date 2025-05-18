@@ -16,7 +16,8 @@ LoanWiseAI is designed to predict loan approval using a variety of applicant fea
 - Credit History
 - Income & Loan Amount
 - Property Area  
-...and more!
+![image](https://github.com/user-attachments/assets/eb44ba24-b27c-4c76-97ab-b8660522dd7e)
+
 
 🔍 The goal is to **reduce human bias** and **increase accuracy** in the decision-making process for loan approvals.
 
@@ -57,6 +58,8 @@ LoanWiseAI is designed to predict loan approval using a variety of applicant fea
    ✅ Accuracy  
    ✅ Confusion Matrix  
    ✅ Precision, Recall, F1 Score
+![image](https://github.com/user-attachments/assets/1b0f0a35-eff7-45c9-b41b-5de1e2b7fdda)
+
 
 📈 Model Performance Summary
 Model	Accuracy
@@ -64,6 +67,8 @@ Logistic Regression	81%
 Decision Tree	78%
 Random Forest	84% ✅
 SVM	82%
+![Analysing Loan Approval Data](https://github.com/user-attachments/assets/d32c643c-f900-4edc-9fd0-4d7b3c1b449f)
+
 
 ➡️ Best Model: Random Forest Classifier 🎯
 
